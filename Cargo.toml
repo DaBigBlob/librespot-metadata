@@ -14,8 +14,8 @@ protobuf = "2.14.0"
 log = "0.4"
 
 [dependencies.librespot-core]
-path = "../core"
+git = "https://github.com/DaBigBlob/librespot-core"
 version = "0.4.2"
 [dependencies.librespot-protocol]
-path = "../protocol"
+git = "https://github.com/DaBigBlob/librespot-protocol"
 version = "0.4.2"
